@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPSReader", "IPSReader\IPSReader.csproj", "{9EBAA9A8-1B6B-491E-845D-803477C94D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBAA9A8-1B6B-491E-845D-803477C94D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBAA9A8-1B6B-491E-845D-803477C94D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBAA9A8-1B6B-491E-845D-803477C94D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBAA9A8-1B6B-491E-845D-803477C94D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF64724-2964-498C-93F8-99A65C663B1C}
+	EndGlobalSection
+EndGlobal
